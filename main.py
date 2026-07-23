@@ -1,7 +1,7 @@
 import streamlit as st
 from openai_helper import get_answer
 
-st.title("AtliQ College: Q&A System")
+st.title("INSA Lab Q&A System")
 
 question = st.text_input("Question:")
 
