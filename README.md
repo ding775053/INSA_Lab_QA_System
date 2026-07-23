@@ -1,2 +1,2 @@
-# INSA-Lab-Q-A-System
+# INSA-Lab-QA-System
 一個實驗室知識庫問答系統
